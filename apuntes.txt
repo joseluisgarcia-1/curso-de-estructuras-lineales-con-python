@@ -1,0 +1,91 @@
+Introducción a las estructuras de datos
+***Clase 1 Python como base de programación***
+
+
+***Clase 2 Elementos de la programación en Python***
+
+
+
+***Clase 3 Tipos de colecciones***
+
+
+
+***Clase 4 Operaciones esenciales en colecciones***
+
+
+
+***Clase 5 Colecciones incorporadas en Python***
+
+Arrays
+***Clase 6 Arrays***
+
+
+
+***Clase 7 Crear un array***
+
+
+
+***Clase 8 Arrays de dos dimensiones***
+
+
+
+Linked lists
+***Clase 9 Nodos y singly linked list***
+
+
+
+***Clase 10 Crear nodos***
+
+
+
+***Clase 11 Crear singly linked list***
+
+
+
+***Clase 12 Operaciones en single linked structures***
+
+
+
+***Clase 13 Operaciones a detalle***
+
+
+
+***Clase 14 Circular linked list***
+
+
+
+***Clase 15 Double linked list***
+
+
+
+Stacks
+***Clase 16 ¿Qué son stacks?***
+
+
+
+***Clase 17 Crear un stack***
+
+
+Queues
+***Clase 18 ¿Qué son las queues?***
+
+
+
+***Clase 19 Queue basada en listas***
+
+
+
+***Clase 20 Queue basada en dos stacks***
+
+
+
+***Clase 21 Queue basada en nodos***
+
+
+
+***Clase 22 Reto: simulador de playlist musical***
+
+
+
+Próximos pasos
+***Clase 23 Más allá de las estructuras lineales***

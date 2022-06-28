@@ -190,11 +190,31 @@ Otros nombres con los que se conocen los array:
 Linked lists
 ***Clase 9 Nodos y singly linked list***
 
+- Consiste de nodos conectados a otros
+- Los más comunes son sencillos y dobles
+- No se accede por índice, sino por recorrido hasta encontrar un valor
 
+Conceptos clave
+    - Data: Valor almacendo en un nodo
+    - Next: Referencia al siguiente nodo
+    - Previous: Referencia al nodo anterior
+    - Head: Referencia al primer nodo
+    - Tail: Referencia al último nodo
+
+Implementación
+    - Implementar otras estructuras más complejas
+    - Optimización
+
+Ejemplos:
+    - En un menú donde estamos haciendo y re haciendo opciones del editor de texto por ejemplo cuando se usa la opción de 
+    copiar, pegar, (ctrl+z), entre otros
+    - Historial del navegador ya que de una página podemos saltar a otra que no necesariamente sea continua
 
 ***Clase 10 Crear nodos***
 
-
+- Creamos una clase Node
+- Referimos valores
+- Unimos nodos iterando
 
 ***Clase 11 Crear singly linked list***
 

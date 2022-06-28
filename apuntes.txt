@@ -157,15 +157,35 @@ Diccionarios
 Arrays
 ***Clase 6 Arrays***
 
+Conceptos claves:
+    - Elemento: valor almacenado en las posiciones del array
+    - Índice: referencia a la posición del elemento
 
+Los arrays son restrictivos
+    - No pueden agregar posiciones
+    - No pueden remover posiciones
+    - No pueden modificar su tamaño
+    - Su capacidad se define al crearse
 
 ***Clase 7 Crear un array***
 
-
+Métodos:
+    - Crearse
+    - Longitud
+    - Representación de string
+    - Pertenencia
+    - Índice
+    - Reemplazo
 
 ***Clase 8 Arrays de dos dimensiones***
 
-
+Otros nombres con los que se conocen los array:
+    - Bi-dimensional array
+    - Two-dimensional array
+    - Grid
+    - Rejilla
+    - Malla
+    - Tabla
 
 Linked lists
 ***Clase 9 Nodos y singly linked list***

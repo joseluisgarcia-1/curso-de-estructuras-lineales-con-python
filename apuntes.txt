@@ -1,20 +1,158 @@
 Introducción a las estructuras de datos
 ***Clase 1 Python como base de programación***
 
+Cursos previamente aprobados
+    - Pensamiento lógico y algóritmos
+    - Terminal y línea de comandos
+    - Python básico
+    - Python intermedio 
+    - Pensamiento computacional
+    - Programación orientada a objetos
+Objetivos
+    - Entender el concepto e importancia de estructuras de datos
+    - Comprender el comportamiento, uso e implementación de estructuras de datos lineales con python
+    - Poner en práctica lo aprendido
+Python
+    - Tiene una sintaxis clara y simple
+    - Semántica segura
+    - Escalable
+    - Interactivo
+    - Propósito general
+    - Gratis y popular
+Introducción
+    - Elementos en python
+    - Colecciones
+    - Tipos y operaciones
+Estructuras de datos lineales
+    - Arrys
+    - Nodes
+    - Linked lists
+    - Stacks
+    - Queues
 
 ***Clase 2 Elementos de la programación en Python***
 
+Elementos léxicos:
+    - if
+    - while
+    - def
+    - break
+    - etc
 
+Convenciones:
+    - variable
+    - CONSTANTE
+    - nombre_funcion
+    - nombreClase
+
+Tener en cuenta
+    - Sintaxis
+    - Literales
+    - Operadores
+    - import
+    - Condicionales
+    - Loops
+
+[] = lista vacia
+["hello"] = lista con un string
+["hello","opps"] = lista de dos string
+["hello","opps", 1] = lista de dos string y un entero
+["hello","opps", ["carro", 10]] = una lista dentro de otra lista
+
+Estructuras propias
+    - Listas
+    - Tuplas
+    - Conjuntos(sets)
+    - Diccionarios
+
+Funciones
+    - Declaración y llamada
+    - Recursivas
+    - Anidadas
+    - High order functions
+    - Lambdas
+
+Además
+    - Manejo de excepciones y errores
+    - Manipulación de archivos
 
 ***Clase 3 Tipos de colecciones***
 
+Grupo de cero o más elementos que pueden tratare como una unidad conceptual
+- Non-zero 
+- null
+- undefined
+Tipos 
+    - Dinámicas
+        - Crecen o disminuyen su tamaño
+    - Inmutables
+        - Son aquellas que no cambian, es decir, ni aumentan ni se reducen
+    - Lineales
+        - Ordenadas por posición
+        - Solo el primer elemento no tiene predecesor
+        Ejemplos
+            - Fila en el supermercado
+            - Pila de platos
+            - Checklist
+    - Jerárquicas
+        - Ordenadas como un árbol divertido
+        - Solo el primer elemento no tiene predecesor
+        - Padres e hijos
+        Ejemplos
+            - Sistema de directorios
+            - Índices de libros
+    - Gráfos
+        - Cada dato puede tener varios predecesores y sucesores
+        - Estos se les llaman "vecinos"
+    - Desordenadas
+        - No tienen un orden particular
+        - No hay predecesores ni sucesores
+        Ejemplos
+            - Una bolsa de canicas que no sabemos cuál va tocar
+    - Ordenadas
+        - Imponen un orden con una regla
 
+Las listas bajo ciertas circunstancias nos permite tener un desempeño mayor
 
 ***Clase 4 Operaciones esenciales en colecciones***
 
-
+- Tamaño
+- Pertenencia
+- Recorrido
+- String
+- Igualdad
+- Concatenación
+- Conversión de tipo
+- Insertar
+- Remover
+- Reemplazar
+- Acceder
 
 ***Clase 5 Colecciones incorporadas en Python***
+
+Listas
+    - Propósito general
+    - Estructura más utilizada
+    - Tamaño dinámico
+    - De tipo secuencial
+    - Ordenable
+Tuplas
+    - Inmutable (no se pueden añadir o cambiar)
+    - Útiles para datos constantes
+    - Más rápidas que las listas
+    - Tipo secuencial
+Conjuntos(sets)
+    - Almacenan objetos no duplicados
+    - De acceso rápido
+    - Aceptan operaciones lógicas
+    - Son desordenados
+    - La forma de llamarlos es que en una variable agreguemos objetos entre llaves o con el método set
+        también lo podemos usar a través de otro tipo de estructura como puede ser una lista
+Diccionarios
+    - Pares de llave/valor
+    - Arrays asociativos (hash maps)
+    - Son desordenados
+    - Haciendo uso de la palabra dict podemos poner una lista y la palabra dict lo que hace es transformar esa lista a un diccionario
 
 Arrays
 ***Clase 6 Arrays***

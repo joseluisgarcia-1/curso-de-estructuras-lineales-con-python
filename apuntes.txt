@@ -285,3 +285,6 @@ Priority queues:
 
 Próximos pasos
 ***Clase 23 Más allá de las estructuras lineales***
+- Crear tus propias estructuras lineales
+- Optimizar código
+- Optimizar el uso de memoria

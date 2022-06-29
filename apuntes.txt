@@ -261,19 +261,23 @@ Aplicaciones
 Queues
 ***Clase 18 ¿Qué son las queues?***
 
-
+Atienden al siguiente principio
+    - FIFO: First-In, First Out
+    - Rear: Último elemento que entra
+    - Front: Primer elemento entra
+Priority queues:
+    - Se basa en FIFO con elementos de mayor/menor prioridad
 
 ***Clase 19 Queue basada en listas***
-
 
 
 ***Clase 20 Queue basada en dos stacks***
 
 
-
 ***Clase 21 Queue basada en nodos***
 
-
+- Agregar y eliminar elementos son O(1)
+- Usando doubly linked list
 
 ***Clase 22 Reto: simulador de playlist musical***
 

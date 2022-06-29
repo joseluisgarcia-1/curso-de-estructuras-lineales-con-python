@@ -222,7 +222,8 @@ Ejemplos:
 
 ***Clase 12 Operaciones en single linked structures***
 
-
+- Los arrays usan índices
+- En linked structures debemos emularlos
 
 ***Clase 13 Operaciones a detalle***
 
@@ -239,7 +240,20 @@ Ejemplos:
 Stacks
 ***Clase 16 ¿Qué son stacks?***
 
-
+¿Qué son?
+    - Colección lineal
+    - Basados en arrays o linked lists
+    - LIFO(last-in first-out)
+        - El primer elemento en llegar va ser el primero en salir
+    - Añadir: push
+    - Remover: pop
+    - Top
+    - Bottom
+Aplicaciones
+    - Invertir el orden de una lista
+    - Implementar "undo"
+    - Mantener historiales
+    - Backtracking
 
 ***Clase 17 Crear un stack***
 
